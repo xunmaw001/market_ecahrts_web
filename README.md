@@ -1,37 +1,33 @@
 # Echarts联心菜市场大数据中心可视化平台
+# Echarts联心菜市场大数据中心可视化平台,Echarts大屏项目，可视化大数据解决方案，前端大屏相关项目，毕业设计可视化项目
 
 #### 介绍
-Echarts联心菜市场大数据中心可视化平台，Echarts大屏项目，可视化大数据解决方案，前端大屏相关项目，毕业设计可视化项目
+Echarts联心菜市场大数据中心可视化平台
+前端技术栈：HTML5+CSS3+Echarts+canvas的技术架构，整站全响应式，支持移动端、PC端作为毕设作业，如果有可视化项目需求，非常合适。
+
 
 #### 软件架构
 软件架构说明
+前端：HTML5+CSS3+Echarts+canvas
 
+#### 功能结构
+首页展示：
+![输入图片说明](003%20%E8%81%94%E5%BF%83%E8%8F%9C%E5%B8%82%E5%9C%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83.png)
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
+1. 下载代码，双击html即可运行
+ 
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+#### 项目预览
+地址：[商品详情](https://www.xunmaw.com/shop/detail/1669260563150811137)
+点击演示地址 
 
 
-#### 特技
+#### 联系作者
+这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者  
+![输入图片说明](image.png)
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+这是作者的公众号二维码，是不是会推一些新开发的项目源码与高效软件工具，感兴趣的朋友给个关注  
+![输入图片说明](image2.png)
